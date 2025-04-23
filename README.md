@@ -7,17 +7,6 @@
 
 ---
 
-### 학력
-**대구소프트웨어마이스터고등학교**     
-`임베디드 소프트웨어과, 2023.03. ~ 2026.02.(졸업예정)`
-- **전교 석차 1.7등급**
-- **한국직업능력 연구원 2025년 KICOX 마이스터고 장학생 선발**
-- Python, Java, 컴퓨터구조, 자료구조, 소프트웨어공학 등 개발 기초 지식 습득
-- 2024, 2025 임베디드 소프트웨어과 반장
-- 교내 유일 게임, 모델링 동아리의 게임 클라이언트 팀장
-
----
-
 ### 기술 스펙
 ![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=000000)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
@@ -39,6 +28,17 @@ Notion 및 Confluence를 통한 문서화 및 프로젝트 관리 경험<br>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>
 팀 프로젝트에서의 UI/UX 구조 설계 및 디자인 협업 경험
+
+---
+
+### 학력
+**대구소프트웨어마이스터고등학교**     
+`임베디드 소프트웨어과, 2023.03. ~ 2026.02.(졸업예정)`
+- **전교 석차 1.7등급**
+- **한국직업능력 연구원 2025년 KICOX 마이스터고 장학생 선발**
+- Python, Java, 컴퓨터구조, 자료구조, 소프트웨어공학 등 개발 기초 지식 습득
+- 2024, 2025 임베디드 소프트웨어과 반장
+- 교내 유일 게임, 모델링 동아리의 게임 클라이언트 팀장
 
 ---
 
