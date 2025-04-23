@@ -34,7 +34,8 @@ Notion 및 Confluence를 통한 문서화 및 프로젝트 관리 경험<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>
-파이썬을 이용한 알고리즘 문제 풀이 및 C 언어 교내 수업 활용
+교내 수업을 통한 사용 경험<br>
+파이썬을 이용한 알고리즘 문제 풀이
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>
 팀 프로젝트에서의 UI/UX 구조 설계 및 디자인 협업 경험
